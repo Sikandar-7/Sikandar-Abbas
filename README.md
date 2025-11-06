@@ -8,12 +8,12 @@
 - 🌱 Currently learning **React, Node.js, and Full Stack Development**.
 - ⚡ Passionate about building clean, user-focused, and efficient web applications.
 - 🎯 Goal: Become an **industry-level full stack developer**.
-- 📫 Reach me at: sikandar8sa@gmail.com(mailto:sikandar8sa@gmail.com)
+- 📫 Reach me at: sikandar8sa@gmail.com
 
 ---
 
 ### 🧰 Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
