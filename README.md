@@ -1,14 +1,15 @@
+<p align="center">
 # 🚀 Hi, I'm Sikandar Abbas
 
 ### 💻 Front-End Developer | JavaScript Enthusiast | Aspiring Full Stack Developer
-
+</p>
 ---
 
-- 🧠 Completed **JavaScript training** to strengthen front-end development skills.
-- 🌱 Currently learning **React, Node.js, and Full Stack Development**.
-- ⚡ Passionate about building clean, user-focused, and efficient web applications.
-- 🎯 Goal: Become an **industry-level full stack developer**.
-- 📫 Reach me at: sikandar8sa@gmail.com
+🧠 Completed **JavaScript training** to strengthen front-end development skills.  
+🌱 Currently learning **React, Node.js, and Full Stack Development**.  
+⚡ Passionate about building clean, user-focused, and efficient web applications.  
+🎯 Goal: Become an **industry-level full stack developer**.  
+📫 Reach me at: **sikandar8sa@gmail.com**
 
 ---
 
@@ -25,6 +26,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Sikandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SikandarAbbas&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SikandarAbbas&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SikandarAbbas&show_icons=true&theme=radical" alt="Sikandar's GitHub stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SikandarAbbas&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
